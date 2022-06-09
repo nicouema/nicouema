@@ -16,4 +16,7 @@
 
 ## About me :fire:
 #### Backende Developer from Argentina 😁
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="50" align="left"/>
+
+<div id="mainTech"
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="50"/>
+</div>
