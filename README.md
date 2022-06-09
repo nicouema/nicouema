@@ -1,6 +1,6 @@
 # Hello there! :v:
 
-<img src="https://user-images.githubusercontent.com/101826700/172954631-11a0eba7-4778-42e9-880d-19c9ac49d631.gif" width="400" style="float: left;" align="left"/>
+<img src="https://user-images.githubusercontent.com/101826700/172954631-11a0eba7-4778-42e9-880d-19c9ac49d631.gif" width="450" style="float: left;" align="left"/>
 
 <div align="center"> <h2>About me :fire:</h> </div>
   
