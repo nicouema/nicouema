@@ -28,11 +28,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
 </div>
   
-  
+####  
+## Contact me 👇
 <div id="contactsUrl" align="center">
   <a href="https://www.linkedin.com/in/nicol%C3%A1s-uema-2539181aa" target="_blank">
-     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" title="LinkedIn" alt="LinkedIn" width="100" height="100"/>
   <a/>
-  <a href="https://www.instagram.com/nicolasuema/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=white"/>
 </div>
