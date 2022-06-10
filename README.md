@@ -28,7 +28,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="50" height="50"/>&nbsp;
 </div>
- 
+  
+<div align="center"> 
+  <h2>My stats 🦸</h>
+</div>
+
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=nicouema&theme=dark&background=000000">
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicouema&layout=compact&theme=vision-friendly-dark">
+</div>
+     
 <div align="center"> 
   <h2>Contact me 👇</h>
 </div>
