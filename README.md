@@ -29,11 +29,6 @@
 </div>
   
   
-
-<div id="contacts" align="center">
-  <img src="https://media.giphy.com/media/VJ65NK5synjTaL4D0I/giphy.gif" width="300"/>
-  
-</div>
 <div id="contactsUrl" align="center">
   <a href="https://www.linkedin.com/in/nicol%C3%A1s-uema-2539181aa" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
