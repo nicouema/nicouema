@@ -47,6 +47,6 @@
   
 <div id="contactsUrl" align="center">
   <a href="https://www.linkedin.com/in/nicol%C3%A1s-uema-2539181aa" target="_blank">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" title="LinkedIn" alt="LinkedIn" width="100" height="100"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="50" height="50"/>
   <a/>
 </div>
