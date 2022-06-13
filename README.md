@@ -30,7 +30,7 @@
 </div>
   
 <div align="center"> 
-  <h2>My stats 🦸</h>
+  <h2>My stats 🦸‍♂️</h>
 </div>
 
 <div align="center">
