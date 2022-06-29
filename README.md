@@ -2,21 +2,21 @@
   <h1>Hello there! :v:</h>
 </div>
 
-<img src="https://user-images.githubusercontent.com/101826700/172954631-11a0eba7-4778-42e9-880d-19c9ac49d631.gif" width="450" style="float: left;" align="left"/>
+<img src="https://user-images.githubusercontent.com/101826700/172954631-11a0eba7-4778-42e9-880d-19c9ac49d631.gif" width="500" style="float: left;" align="left"/>
 
 <div align="center"> <h2>About me :fire:</h> </div>
   
 <div id="aboutMe" align="center">
   <div><h3> Backend Developer from Argentina😁</h></div>
+  <h3>Job Ready Certified By Alkemy! 🚀🚀🚀</h3>
+  <a href="https://assets.alkemy.org/certificates/google-oauth2%7C101519425330864545258/2443d16e-58f7-4536-8fce-b6c94d6abcb4.pdf" target="_blank">👉🏽Click to see the Certicate👈🏽</a>
+  <h4> If you want to know about Alkemy, just click on the image👉</h>
   <a href="https://www.alkemy.org/blog?p=qué-es-alkemy" target="_blank"> 
-    <img src="https://user-images.githubusercontent.com/101826700/172942062-077d0893-9b23-43e3-834c-3de351713bcb.png" width="80" style="float: right;" align="right"/>
+    <img src="https://user-images.githubusercontent.com/101826700/172942062-077d0893-9b23-43e3-834c-3de351713bcb.png" width="30" style="float: right;" align="center"/>
   <a/>
-  <h3>Currently an alkymer! 🚀🚀🚀</h3>
-    <h4> If you want to know about it, just click on the image👉</h>
 </div>
-
 <div align="center"> <h2>Technologies and Tools :wrench: </h> </div>
-  
+
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;
