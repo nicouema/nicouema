@@ -49,4 +49,7 @@
   <a href="https://www.linkedin.com/in/nicol%C3%A1s-uema-2539181aa" target="_blank">
      <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="50" height="50"/>
   <a/>
+  <a
+    href="http://whiteclouddrive.com/about/f99hzrrqi1cgkozmkmtaxdg05/image.gif"
+  <a/>
 </div>
